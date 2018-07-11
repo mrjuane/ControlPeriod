@@ -1,0 +1,14 @@
+﻿body {
+}
+
+#legend {
+    border: 1px solid black;
+    width:200px;
+    font-family:'Times New Roman' sans-serif;
+}
+
+#FreeDays{background-color:lightgreen;}
+#OvalDay {background-color:red;}
+#PosibleGirl{background-color:lightpink;}
+#PosibleBoy{background-color:lightblue;}
+#PosibleNextPeriod{background-color:lightsalmon;}
